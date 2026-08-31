@@ -131,7 +131,7 @@ Database & Tools
 </p>
 <!-- Same shared-instance caveat applies here as the stats cards above. -->
 ---
-📫 Let's Connect
+ Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/vikul-choudhary11/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -143,4 +143,4 @@ Database & Tools
     <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
-<p align="center"><i>⭐️ If any of my projects helped you, consider giving them a star!</i></p>
+<p align="center"><i> If any of my projects helped you, consider giving them a star!</i></p>
