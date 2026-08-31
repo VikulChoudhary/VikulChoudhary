@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vikul Choudhary 👋</h1>
+<h1 align="center">Hi, I'm Vikul Choudhary </h1>
 <h3 align="center">Turning coffee into code, and bugs into "features"</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%A7%A9;Building+Things+That+Actually+Work+%F0%9F%9A%80;Professional+Bug+Creator+%F0%9F%90%9B" alt="Typing SVG" />
